@@ -1,5 +1,11 @@
+body {
+	background-image: url("../img/bg.jpg");
+}
 form {
 	display: block;
 	clear: both;
 	overflow: hidden;
+}
+.input-field label {
+	top: 0;
 }
